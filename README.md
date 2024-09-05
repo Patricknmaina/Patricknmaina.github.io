@@ -1,2 +1,2 @@
-# maina-patrick.github.io
+# Patricknmaina.github.io
 This is my personal portfolio
